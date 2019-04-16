@@ -1,0 +1,190 @@
+Fri Aug 11 15:40:42 BRT 2017 - CONEXION BD SAP OK 
+Fri Aug 11 15:40:42 BRT 2017 - INICIO MA_SitioSAP.txt
+Fri Aug 11 15:40:42 BRT 2017 - RESCATANDO DATOS TBL MA_SitiosSAP
+Fri Aug 11 15:40:42 BRT 2017 - FIN MA_SitioSAP.txt
+Fri Aug 11 15:40:42 BRT 2017 - INTENTANDO CONEXION BD ORACLE
+Fri Aug 11 15:40:42 BRT 2017 - CONEXION BD ORACLE OK
+Fri Aug 11 15:40:42 BRT 2017 - INICIO rl_cambios_flota.txt
+Fri Aug 11 15:40:42 BRT 2017 - RESCATANDO DATOS TBL rl_cambios_flota
+Fri Aug 11 15:40:42 BRT 2017 - FIN rl_cambios_flota.txt
+Fri Aug 11 15:40:42 BRT 2017 - INICIO MA_flota.txt
+Fri Aug 11 15:40:42 BRT 2017 - RESCATANDO DATOS TBL MA_flota
+Fri Aug 11 15:40:42 BRT 2017 - FIN MA_flota.txt
+Fri Aug 11 15:40:42 BRT 2017 - INICIO PROCESO HECPOLL
+Fri Aug 11 15:40:42 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:40:42 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:40:42 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:40:44 BRT 2017 - BuscarArchivoSAP Ex Err: El fichero no puede ser borrado
+Fri Aug 11 15:40:44 BRT 2017 - Se cierra conexion
+Fri Aug 11 15:40:44 BRT 2017 - INICIO PROCESO HECPOLL
+Fri Aug 11 15:40:44 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:40:44 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:40:44 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:40:46 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:40:46 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:40:46 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:40:46 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:40:48 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:40:48 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:40:48 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:40:48 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:40:50 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:40:50 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:40:50 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:40:50 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:40:51 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:40:51 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:40:51 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:40:51 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:40:53 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:40:53 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:40:53 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:40:53 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:42:25 BRT 2017 - INICIO PROCESO HECPOLL
+Fri Aug 11 15:42:25 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:42:25 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:42:25 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:42:27 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:42:27 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:42:27 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:42:27 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:42:28 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:42:28 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:42:28 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:42:28 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:42:30 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:42:30 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:42:30 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:42:30 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:42:31 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:42:31 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:42:31 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:42:31 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:18 BRT 2017 - CONEXION BD SAP OK 
+Fri Aug 11 15:47:18 BRT 2017 - INICIO MA_SitioSAP.txt
+Fri Aug 11 15:47:18 BRT 2017 - RESCATANDO DATOS TBL MA_SitiosSAP
+Fri Aug 11 15:47:18 BRT 2017 - FIN MA_SitioSAP.txt
+Fri Aug 11 15:47:18 BRT 2017 - INTENTANDO CONEXION BD ORACLE
+Fri Aug 11 15:47:18 BRT 2017 - CONEXION BD ORACLE OK
+Fri Aug 11 15:47:18 BRT 2017 - INICIO rl_cambios_flota.txt
+Fri Aug 11 15:47:18 BRT 2017 - RESCATANDO DATOS TBL rl_cambios_flota
+Fri Aug 11 15:47:18 BRT 2017 - FIN rl_cambios_flota.txt
+Fri Aug 11 15:47:18 BRT 2017 - INICIO MA_flota.txt
+Fri Aug 11 15:47:18 BRT 2017 - RESCATANDO DATOS TBL MA_flota
+Fri Aug 11 15:47:18 BRT 2017 - FIN MA_flota.txt
+Fri Aug 11 15:47:18 BRT 2017 - INICIO PROCESO HECPOLL
+Fri Aug 11 15:47:18 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:18 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:18 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:20 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:20 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:20 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:20 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:22 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:22 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:22 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:22 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:23 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:23 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:23 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:23 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:25 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:25 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:25 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:25 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:28 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:28 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:28 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:28 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:29 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:29 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:29 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:29 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:32 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:32 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:32 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:32 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:33 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:33 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:33 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:33 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:35 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:35 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:35 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:35 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:40 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:40 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:40 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:40 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:42 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:42 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:42 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:42 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:44 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:44 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:44 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:44 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:45 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:45 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:45 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:45 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:47 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:47 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:47 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:47 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:48 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:48 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:48 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:48 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:49 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:49 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:49 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:49 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:51 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:51 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:51 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:51 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:52 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:52 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:52 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:52 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:54 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:54 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:54 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:54 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:55 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:55 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:55 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:55 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:56 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:56 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:56 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:57 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:47:58 BRT 2017 - SQ Err: com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'join'.
+Fri Aug 11 15:47:58 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:47:58 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:47:58 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:51:59 BRT 2017 - INICIO PROCESO HECPOLL
+Fri Aug 11 15:52:00 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:52:00 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:52:00 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:55:47 BRT 2017 - CONEXION BD SAP OK 
+Fri Aug 11 15:55:47 BRT 2017 - INICIO MA_SitioSAP.txt
+Fri Aug 11 15:55:47 BRT 2017 - RESCATANDO DATOS TBL MA_SitiosSAP
+Fri Aug 11 15:55:47 BRT 2017 - FIN MA_SitioSAP.txt
+Fri Aug 11 15:55:47 BRT 2017 - INTENTANDO CONEXION BD ORACLE
+Fri Aug 11 15:55:47 BRT 2017 - CONEXION BD ORACLE OK
+Fri Aug 11 15:55:47 BRT 2017 - INICIO rl_cambios_flota.txt
+Fri Aug 11 15:55:47 BRT 2017 - RESCATANDO DATOS TBL rl_cambios_flota
+Fri Aug 11 15:55:47 BRT 2017 - FIN rl_cambios_flota.txt
+Fri Aug 11 15:55:47 BRT 2017 - INICIO MA_flota.txt
+Fri Aug 11 15:55:47 BRT 2017 - RESCATANDO DATOS TBL MA_flota
+Fri Aug 11 15:55:47 BRT 2017 - FIN MA_flota.txt
+Fri Aug 11 15:55:47 BRT 2017 - INICIO PROCESO HECPOLL
+Fri Aug 11 15:55:48 BRT 2017 - CONEXION BD HECPOLL OK
+Fri Aug 11 15:55:48 BRT 2017 - PROCESANDO ARCHIVO MA_SITIOSAP.txt
+Fri Aug 11 15:55:48 BRT 2017 - PROCESANDO ARCHIVO rl_cambios_flota.txt
+Fri Aug 11 15:57:55 BRT 2017 - SUBIR ARCHIVO AL FTP
+Fri Aug 11 15:57:56 BRT 2017 - Fin lectura
+Fri Aug 11 15:57:56 BRT 2017 - IDPaiment inicial: 0 Ultimo IDpaiment ingresado: 172525
+Fri Aug 11 15:57:56 BRT 2017 - Se cierra conexion
